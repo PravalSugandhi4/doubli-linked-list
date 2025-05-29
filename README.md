@@ -1,4 +1,4 @@
-# 🔁 Doubly Linked List in C
+# 🔁 Doubly Linked List in C++
 
 This project is a simple and efficient implementation of a **Doubly Linked List** in the C programming language. A doubly linked list is a data structure where each node contains a reference to both the next and previous node in the sequence, allowing traversal in both directions.
 
